@@ -13,5 +13,5 @@
 	merge = refs/heads/master
 [remote "origin"]
 	url = https://github.com/casjay-forks/todoist
-	fetch = +refs/heads/*:refs/remotes/todoist/*
+	fetch = +refs/heads/*:refs/remotes/origin/*
 
