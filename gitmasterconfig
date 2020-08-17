@@ -7,7 +7,7 @@
 [remote "fetch"]
 	url = https://github.com/karlhadwen/todoist
 	fetch = +refs/heads/*:refs/remotes/fetch/*
-        pushurl = no_push
+	pushurl = no_push
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
